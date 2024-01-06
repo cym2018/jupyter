@@ -1,0 +1,203 @@
+[W 2023-12-26 06:07:14.921 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[W 2023-12-26 06:07:14.925 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2023-12-26 06:07:14.925 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2023-12-26 06:07:14.928 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2023-12-26 06:07:14.932 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-12-26 06:07:15.072 ServerApp] notebook_shim | extension was successfully linked.
+[I 2023-12-26 06:07:15.082 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-12-26 06:07:15.084 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2023-12-26 06:07:15.085 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2023-12-26 06:07:15.085 LabApp] JupyterLab extension loaded from /home/yuming/venv/lib/python3.10/site-packages/jupyterlab
+[I 2023-12-26 06:07:15.085 LabApp] JupyterLab application directory is /home/yuming/venv/share/jupyter/lab
+[I 2023-12-26 06:07:15.086 LabApp] Extension Manager is 'pypi'.
+[I 2023-12-26 06:07:15.087 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-12-26 06:07:15.088 ServerApp] Serving notebooks from local directory: /home/yuming/jupyter
+[I 2023-12-26 06:07:15.088 ServerApp] Jupyter Server 2.12.1 is running at:
+[I 2023-12-26 06:07:15.088 ServerApp] http://localhost:8888/lab?token=026ad03dd55daff1b59a64afb99fae54cbf01e8d250db369
+[I 2023-12-26 06:07:15.088 ServerApp]     http://127.0.0.1:8888/lab?token=026ad03dd55daff1b59a64afb99fae54cbf01e8d250db369
+[I 2023-12-26 06:07:15.088 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-12-26 06:07:15.099 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/yuming/.local/share/jupyter/runtime/jpserver-5965-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=026ad03dd55daff1b59a64afb99fae54cbf01e8d250db369
+        http://127.0.0.1:8888/lab?token=026ad03dd55daff1b59a64afb99fae54cbf01e8d250db369
+[I 2023-12-26 06:07:15.112 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2023-12-26 06:07:18.101 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-12-26 06:07:18.644 ServerApp] Kernel started: ec5be55e-72ac-49a6-980b-74bb24032a10
+[I 2023-12-26 06:07:18.997 ServerApp] Connecting to kernel ec5be55e-72ac-49a6-980b-74bb24032a10.
+[I 2023-12-26 06:07:19.008 ServerApp] Connecting to kernel ec5be55e-72ac-49a6-980b-74bb24032a10.
+[I 2023-12-26 06:07:19.021 ServerApp] Connecting to kernel ec5be55e-72ac-49a6-980b-74bb24032a10.
+2023-12-26 06:07:39.307751: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2023-12-26 06:07:39.307802: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2023-12-26 06:07:39.308865: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2023-12-26 06:07:39.314394: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-12-26 06:07:40.058637: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 2023-12-26 06:09:19.121 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-12-26 06:09:28.769 ServerApp] Starting buffering for ec5be55e-72ac-49a6-980b-74bb24032a10:222e2406-4ec8-4778-8a6b-c0d5b31b06de
+[W 2023-12-26 06:12:05.212 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-12-26 06:12:05.274 ServerApp] Connecting to kernel ec5be55e-72ac-49a6-980b-74bb24032a10.
+[I 2023-12-26 06:12:05.429 ServerApp] Starting buffering for ec5be55e-72ac-49a6-980b-74bb24032a10:39bc6ab0-5c59-4d13-aeb8-c8f6a6c1f682
+[I 2023-12-26 06:12:05.748 ServerApp] Connecting to kernel ec5be55e-72ac-49a6-980b-74bb24032a10.
+2023-12-26 06:12:17.831169: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 06:12:17.856527: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 06:12:17.857854: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+[I 2023-12-26 06:12:52.535 ServerApp] Kernel restarted: ec5be55e-72ac-49a6-980b-74bb24032a10
+[I 2023-12-26 06:12:52.538 ServerApp] Starting buffering for ec5be55e-72ac-49a6-980b-74bb24032a10:792fc7a2-fdbc-4bb1-9c16-ccdb54f66c3a
+[I 2023-12-26 06:12:52.540 ServerApp] Connecting to kernel ec5be55e-72ac-49a6-980b-74bb24032a10.
+[I 2023-12-26 06:12:52.540 ServerApp] Restoring connection for ec5be55e-72ac-49a6-980b-74bb24032a10:792fc7a2-fdbc-4bb1-9c16-ccdb54f66c3a
+2023-12-26 06:12:55.811573: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2023-12-26 06:12:55.811598: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2023-12-26 06:12:55.812317: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2023-12-26 06:12:55.816590: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-12-26 06:12:56.417017: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2023-12-26 06:12:56.937503: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 06:12:56.961968: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 06:12:56.963147: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+[I 2023-12-26 06:14:06.030 ServerApp] Saving file at /Untitled.ipynb
+2023-12-26 06:16:42.637496: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 06:16:42.640335: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 06:16:42.642157: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 06:16:42.751527: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 06:16:42.752887: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 06:16:42.754040: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 06:16:42.755111: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1929] Created device /device:GPU:0 with 13328 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 4060 Ti, pci bus id: 0000:01:00.0, compute capability: 8.9
+[I 2023-12-26 06:18:07.785 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-12-26 06:24:10.020 ServerApp] Saving file at /Untitled.ipynb
+[W 2023-12-26 06:49:10.494 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-12-26 06:49:10.591 ServerApp] Connecting to kernel ec5be55e-72ac-49a6-980b-74bb24032a10.
+[I 2023-12-26 06:49:14.104 ServerApp] Connecting to kernel ec5be55e-72ac-49a6-980b-74bb24032a10.
+[W 2023-12-26 07:31:15.867 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-12-26 07:31:15.927 ServerApp] Connecting to kernel ec5be55e-72ac-49a6-980b-74bb24032a10.
+[I 2023-12-26 07:31:18.321 ServerApp] Connecting to kernel ec5be55e-72ac-49a6-980b-74bb24032a10.
+[I 2023-12-26 07:33:18.271 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-12-26 07:35:18.332 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-12-26 07:37:18.409 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-12-26 07:39:19.021 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-12-26 07:52:22.029 ServerApp] Saving file at /Untitled.ipynb
+2023-12-26 08:21:49.615703: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 08:21:49.642585: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 08:21:49.664768: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 08:21:49.667185: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 08:21:49.668760: I external/local_xla/xla/stream_executor/cuda/cuda_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-12-26 08:21:49.670358: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1929] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 13328 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 4060 Ti, pci bus id: 0000:01:00.0, compute capability: 8.9
+2023-12-26 08:21:50.481433: I external/local_tsl/tsl/platform/default/subprocess.cc:304] Start cannot spawn child process: No such file or directory
+2023-12-26 08:21:50.520442: I external/local_xla/xla/service/service.cc:168] XLA service 0x7f81e40c6de0 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+2023-12-26 08:21:50.520459: I external/local_xla/xla/service/service.cc:176]   StreamExecutor device (0): NVIDIA GeForce RTX 4060 Ti, Compute Capability 8.9
+2023-12-26 08:21:50.524905: I tensorflow/compiler/mlir/tensorflow/utils/dump_mlir_util.cc:269] disabling MLIR crash reproducer, set env var `MLIR_CRASH_REPRODUCER_DIRECTORY` to enable.
+2023-12-26 08:21:50.540119: I external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:454] Loaded cuDNN version 8904
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1703550110.594752   18174 device_compiler.h:186] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.
+[I 2023-12-26 08:23:22.071 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-12-26 08:25:23.031 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-12-26 08:29:24.048 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-12-26 08:35:26.044 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-12-26 08:36:49.429 ServerApp] Creating new notebook in 
+[I 2023-12-26 08:36:51.098 ServerApp] Kernel started: 14ad2f07-ee3c-4bc1-82b5-4ba8a79e5d26
+[I 2023-12-26 08:36:51.415 ServerApp] Connecting to kernel 14ad2f07-ee3c-4bc1-82b5-4ba8a79e5d26.
+[I 2023-12-26 08:37:26.137 ServerApp] Saving file at /python_ml.ipynb
+[I 2023-12-26 08:38:49.590 ServerApp] Saving file at /matplot.ipynb
+[I 2023-12-26 08:40:49.632 ServerApp] Saving file at /matplot.ipynb
+[I 2023-12-26 08:42:49.693 ServerApp] Saving file at /matplot.ipynb
+[I 2023-12-26 08:44:49.739 ServerApp] Saving file at /matplot.ipynb
+[I 2023-12-26 08:46:49.778 ServerApp] Saving file at /matplot.ipynb
+[I 2023-12-26 08:48:49.822 ServerApp] Saving file at /matplot.ipynb
+[I 2023-12-26 08:49:58.883 ServerApp] Creating new notebook in 
+[I 2023-12-26 08:50:00.432 ServerApp] Kernel started: e06a8c3f-252e-427a-8dcd-d279d9f5cbac
+[I 2023-12-26 08:50:00.782 ServerApp] Connecting to kernel e06a8c3f-252e-427a-8dcd-d279d9f5cbac.
+[I 2023-12-26 08:51:59.049 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-12-26 09:04:22.024 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-12-26 09:27:04.786 ServerApp] Creating new notebook in 
+[I 2023-12-26 09:27:04.931 ServerApp] Kernel started: baf14c86-66fa-4030-8f90-94e4deba6dbf
+[I 2023-12-26 09:27:05.414 ServerApp] Connecting to kernel baf14c86-66fa-4030-8f90-94e4deba6dbf.
+[I 2023-12-26 09:27:45.231 ServerApp] Kernel restarted: baf14c86-66fa-4030-8f90-94e4deba6dbf
+[I 2023-12-26 09:27:45.237 ServerApp] Starting buffering for baf14c86-66fa-4030-8f90-94e4deba6dbf:8779cf10-d57b-47e6-afe7-159e027a995a
+[I 2023-12-26 09:27:45.242 ServerApp] Connecting to kernel baf14c86-66fa-4030-8f90-94e4deba6dbf.
+[I 2023-12-26 09:27:45.242 ServerApp] Restoring connection for baf14c86-66fa-4030-8f90-94e4deba6dbf:8779cf10-d57b-47e6-afe7-159e027a995a
+[I 2023-12-26 09:29:04.909 ServerApp] Saving file at /Untitled1.ipynb
+[I 2023-12-26 09:31:04.950 ServerApp] Saving file at /Untitled1.ipynb
+[I 2023-12-26 09:32:07.566 ServerApp] Kernel interrupted: baf14c86-66fa-4030-8f90-94e4deba6dbf
+[I 2023-12-26 09:32:36.635 ServerApp] Kernel shutdown: ec5be55e-72ac-49a6-980b-74bb24032a10
+[I 2023-12-26 09:32:36.641 ServerApp] Kernel shutdown: 14ad2f07-ee3c-4bc1-82b5-4ba8a79e5d26
+[I 2023-12-26 09:32:36.642 ServerApp] Kernel shutdown: e06a8c3f-252e-427a-8dcd-d279d9f5cbac
+[I 2023-12-26 09:32:36.648 ServerApp] Kernel shutdown: baf14c86-66fa-4030-8f90-94e4deba6dbf
+[I 2023-12-26 09:32:40.522 ServerApp] Kernel started: 0dba9084-0726-433c-a9ba-2ab1276320f7
+[I 2023-12-26 09:32:40.865 ServerApp] Connecting to kernel 0dba9084-0726-433c-a9ba-2ab1276320f7.
+[I 2023-12-26 09:33:05.027 ServerApp] Saving file at /Untitled1.ipynb
+[I 2023-12-26 09:33:11.946 ServerApp] Kernel restarted: 0dba9084-0726-433c-a9ba-2ab1276320f7
+[I 2023-12-26 09:33:11.949 ServerApp] Starting buffering for 0dba9084-0726-433c-a9ba-2ab1276320f7:2be224eb-c3c7-48cb-8ac8-7fb31b092310
+[I 2023-12-26 09:33:11.951 ServerApp] Connecting to kernel 0dba9084-0726-433c-a9ba-2ab1276320f7.
+[I 2023-12-26 09:33:11.951 ServerApp] Restoring connection for 0dba9084-0726-433c-a9ba-2ab1276320f7:2be224eb-c3c7-48cb-8ac8-7fb31b092310
+[I 2023-12-26 09:34:12.718 ServerApp] Kernel interrupted: 0dba9084-0726-433c-a9ba-2ab1276320f7
+[I 2023-12-26 09:34:59.610 ServerApp] Saving file at /Untitled1.ipynb
+[E 2023-12-26 09:34:59.637 ServerApp] Uncaught exception POST /api/contents/Untitled1.ipynb/checkpoints?1703554499627 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='POST', uri='/api/contents/Untitled1.ipynb/checkpoints?1703554499627', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/yuming/venv/lib/python3.10/site-packages/tornado/web.py", line 1790, in _execute
+        result = await result
+      File "/home/yuming/venv/lib/python3.10/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/home/yuming/venv/lib/python3.10/site-packages/jupyter_server/services/contents/handlers.py", line 356, in post
+        checkpoint = await ensure_async(cm.create_checkpoint(path))
+      File "/home/yuming/venv/lib/python3.10/site-packages/jupyter_core/utils/__init__.py", line 188, in ensure_async
+        result = await obj
+      File "/home/yuming/venv/lib/python3.10/site-packages/jupyter_server/services/contents/manager.py", line 1084, in create_checkpoint
+        return await self.checkpoints.create_checkpoint(self, path)
+      File "/home/yuming/venv/lib/python3.10/site-packages/jupyter_server/services/contents/filecheckpoints.py", line 140, in create_checkpoint
+        return await self.checkpoint_model(checkpoint_id, dest_path)
+      File "/home/yuming/venv/lib/python3.10/site-packages/jupyter_server/services/contents/filecheckpoints.py", line 150, in checkpoint_model
+        stats = await run_sync(os.stat, os_path)
+      File "/home/yuming/venv/lib/python3.10/site-packages/anyio/to_thread.py", line 56, in run_sync
+        return await get_async_backend().run_sync_in_worker_thread(
+      File "/home/yuming/venv/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 2134, in run_sync_in_worker_thread
+        return await future
+      File "/home/yuming/venv/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 851, in run
+        result = context.run(func, *args)
+    FileNotFoundError: [Errno 2] No such file or directory: '/home/yuming/jupyter/.ipynb_checkpoints/Untitled1-checkpoint.ipynb'
+[W 2023-12-26 09:34:59.638 ServerApp] wrote error: 'Unhandled error'
+    Traceback (most recent call last):
+      File "/home/yuming/venv/lib/python3.10/site-packages/tornado/web.py", line 1790, in _execute
+        result = await result
+      File "/home/yuming/venv/lib/python3.10/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/home/yuming/venv/lib/python3.10/site-packages/jupyter_server/services/contents/handlers.py", line 356, in post
+        checkpoint = await ensure_async(cm.create_checkpoint(path))
+      File "/home/yuming/venv/lib/python3.10/site-packages/jupyter_core/utils/__init__.py", line 188, in ensure_async
+        result = await obj
+      File "/home/yuming/venv/lib/python3.10/site-packages/jupyter_server/services/contents/manager.py", line 1084, in create_checkpoint
+        return await self.checkpoints.create_checkpoint(self, path)
+      File "/home/yuming/venv/lib/python3.10/site-packages/jupyter_server/services/contents/filecheckpoints.py", line 140, in create_checkpoint
+        return await self.checkpoint_model(checkpoint_id, dest_path)
+      File "/home/yuming/venv/lib/python3.10/site-packages/jupyter_server/services/contents/filecheckpoints.py", line 150, in checkpoint_model
+        stats = await run_sync(os.stat, os_path)
+      File "/home/yuming/venv/lib/python3.10/site-packages/anyio/to_thread.py", line 56, in run_sync
+        return await get_async_backend().run_sync_in_worker_thread(
+      File "/home/yuming/venv/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 2134, in run_sync_in_worker_thread
+        return await future
+      File "/home/yuming/venv/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 851, in run
+        result = context.run(func, *args)
+    FileNotFoundError: [Errno 2] No such file or directory: '/home/yuming/jupyter/.ipynb_checkpoints/Untitled1-checkpoint.ipynb'
+[E 2023-12-26 09:34:59.638 ServerApp] {
+      "Host": "localhost:8888",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8888/lab/workspaces/auto-w/tree/Untitled1.ipynb",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+[E 2023-12-26 09:34:59.638 ServerApp] 500 POST /api/contents/Untitled1.ipynb/checkpoints?1703554499627 (08fe076c4a1643f39d0a930178dfe1d3@127.0.0.1) 9.82ms referer=http://localhost:8888/lab/workspaces/auto-w/tree/Untitled1.ipynb
+[I 2023-12-26 09:35:03.959 ServerApp] Saving file at /http.ipynb
+[I 2023-12-26 09:35:05.391 ServerApp] Saving file at /http.ipynb
+[I 2023-12-26 09:35:10.633 ServerApp] Saving file at /http.ipynb
+[I 2023-12-26 09:35:44.075 ServerApp] Kernel restarted: 0dba9084-0726-433c-a9ba-2ab1276320f7
+[I 2023-12-26 09:35:44.078 ServerApp] Starting buffering for 0dba9084-0726-433c-a9ba-2ab1276320f7:2be224eb-c3c7-48cb-8ac8-7fb31b092310
+[I 2023-12-26 09:35:44.080 ServerApp] Connecting to kernel 0dba9084-0726-433c-a9ba-2ab1276320f7.
+[I 2023-12-26 09:35:44.080 ServerApp] Restoring connection for 0dba9084-0726-433c-a9ba-2ab1276320f7:2be224eb-c3c7-48cb-8ac8-7fb31b092310
+[I 2023-12-26 09:36:00.965 ServerApp] Kernel interrupted: 0dba9084-0726-433c-a9ba-2ab1276320f7
+[I 2023-12-26 09:36:06.662 ServerApp] Kernel restarted: 0dba9084-0726-433c-a9ba-2ab1276320f7
+[I 2023-12-26 09:36:06.664 ServerApp] Starting buffering for 0dba9084-0726-433c-a9ba-2ab1276320f7:2be224eb-c3c7-48cb-8ac8-7fb31b092310
+[I 2023-12-26 09:36:06.666 ServerApp] Connecting to kernel 0dba9084-0726-433c-a9ba-2ab1276320f7.
+[I 2023-12-26 09:36:06.666 ServerApp] Restoring connection for 0dba9084-0726-433c-a9ba-2ab1276320f7:2be224eb-c3c7-48cb-8ac8-7fb31b092310
+[I 2023-12-26 09:37:10.671 ServerApp] Saving file at /http.ipynb
+[I 2023-12-26 12:40:51.364 ServerApp] Starting buffering for 0dba9084-0726-433c-a9ba-2ab1276320f7:2be224eb-c3c7-48cb-8ac8-7fb31b092310
